@@ -9,4 +9,4 @@ This project serves as an excellent practice for students to understand and
 implement responsive web design techniques, Bootstrap components, and the 
 integration of multimedia elements in a webpage. 
 
-![screencapture-127-0-0-1-5500-index-html-2024-09-17-22_57_55](https://github.com/user-attachments/assets/618e0a9c-e213-431e-b307-b71796b7d4e3)
+![screencapture-127-0-0-1-5500-index-html-2024-10-03-11_58_25](https://github.com/user-attachments/assets/6de846ac-92f7-4b16-b8b3-fb3532348b35)
